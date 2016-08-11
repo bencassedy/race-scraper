@@ -1,0 +1,5 @@
+splinter
+redis
+flask
+celery
+selenium==2.37.0
